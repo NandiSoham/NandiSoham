@@ -4,7 +4,7 @@
 <img align = "right" alt = "coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif"></img>
 
 
-- 👨‍💻 All of my projects are available at [My Website](https://nandisoham.github.io/Web-Dev-Final-Project/)
+- 👨‍💻 Check out [My Portfolio](https://sohamnandi.netlify.app/)
 
 - 📫 How to reach me **nandisoham21@gmail.com**
 
